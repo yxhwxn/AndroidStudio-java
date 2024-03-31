@@ -13,3 +13,8 @@
     <img width="290" height="550" alt="버튼 누르기 전" src="https://github.com/yxhwxn/AndroidStudio-java/assets/87745916/09b13adf-00f9-47f0-8e1c-745c4fd48788">
     <img width="290" height="550" alt="버튼 누른 후" src="https://github.com/yxhwxn/AndroidStudio-java/assets/87745916/1557c485-4546-46bc-9b8f-dfe9a99255ba">
 </p>
+
+
+## 💡 실습 4-2
+
+애뮬레이터 실행
