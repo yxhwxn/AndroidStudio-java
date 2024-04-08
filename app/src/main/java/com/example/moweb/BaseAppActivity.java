@@ -69,7 +69,7 @@ public class BaseAppActivity extends AppCompatActivity {
             public void onClick(View v) {
                 int checkedRadioButtonId = rGroup1.getCheckedRadioButtonId();
                 if (checkedRadioButtonId == R.id.RdoDog) {
-                    imgPet.setImageResource(R.drawable.dog);
+//                    imgPet.setImageResource(R.drawable.dog);
                 }
             }
         });

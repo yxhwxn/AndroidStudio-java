@@ -61,6 +61,22 @@
           <timeTargetWasSelectedWithDropDown value="2024-03-19T06:21:03.423475Z" />
         </State>
       </entry>
+      <entry key="project6_2">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/T_Pixel_2_.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-08T08:13:31.130082Z" />
+        </State>
+      </entry>
     </value>
   </component>
 </project>
